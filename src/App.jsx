@@ -1,5 +1,5 @@
 import React from 'react'
-import Form from './components/form'
+import Form from './components/Form'
 import AlertExample from './components/Alert'
 import Avtar_Badge from './components/Avtar_Badge'
 import ButtonExample from './components/Button'
